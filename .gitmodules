@@ -1,0 +1,3 @@
+[submodule "libAA1"]
+	path = libAA1
+	url = git@github.com:AlexandreBreaultdev/libAA1.git
